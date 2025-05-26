@@ -1,6 +1,6 @@
 # 📂 **Benefícios da Computação em Nuvem**  
 
-## 📝 **Descrição:**  
+## **Descrição:**  
 A computação em nuvem oferece diversas vantagens, possibilitando maior eficiência e flexibilidade para empresas e desenvolvedores. Este programa permite ao usuário explorar os principais benefícios e entender suas características.  
 
 ### 📥 **Entrada**  
@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
 ---
 
-## 📋 Benefícios e Descrições: 
+## Benefícios e Descrições: 
 
 | **Benefício**             | **Descrição**                           |
 |--------------------------|----------------------------------------|
@@ -96,16 +96,16 @@ Para rodar os testes automatizados, execute:
 python -m unittest testes.py
 ```
 
-## 🤖 Tecnologias utilizadas  
+## Tecnologias utilizadas:  
 - **Python 3.x**  
 - **unittest** (para testes automatizados)  
 
-## 📜 Licença  
+##  Licença  
 Este projeto está sob a licença MIT.
 
-## ✨ Autor  
-Criado por [Tainakatze] – Contribuições são bem-vindas! 😊
+##  Autor  
+Criado por [Tainakatze] – Contribuições são bem-vindas! 
 
 
-## 🔍 **Conclusão:**  
+##  **Conclusão:**  
 A computação em nuvem proporciona flexibilidade, eficiência e economia para empresas e desenvolvedores.Este projeto pode servir de referência para quem deseja entender melhor os impactos positivos da computação em nuvem. 
