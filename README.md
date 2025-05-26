@@ -104,10 +104,8 @@ python -m unittest testes.py
 Este projeto está sob a licença MIT.
 
 ## ✨ Autor  
-Criado por [Seu Nome] – Contribuições são bem-vindas! 😊
-```
+Criado por [Tainakatze] – Contribuições são bem-vindas! 😊
 
----
 
 ## 🔍 **Conclusão:**  
 A computação em nuvem proporciona flexibilidade, eficiência e economia para empresas e desenvolvedores.Este projeto pode servir de referência para quem deseja entender melhor os impactos positivos da computação em nuvem. 
